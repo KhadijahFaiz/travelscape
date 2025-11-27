@@ -96,15 +96,22 @@ travelscape/
 
 ## 🌐 Live Demo
 
-[View Live Site] (https://vercel.com/khadijahs-projects-cb6a7f9e/travelscape/HZPxerDkcmiipmWhvGby5U4R28v8))
+🔗 **[View Live Site](https://travelscape-brown.vercel.app)**
 
 ## 📄 License
 
-This project was created as part of a web development internship assessment.
+This project was created as part of a web development internship assessment for KonceptHive.
 
 ## 👤 Author
 
-**Your Name**
+**Khadijah Faiz**
+- GitHub: [@KhadijahFaiz](https://github.com/KhadijahFaiz)
+- Project Repository: [travelscape](https://github.com/KhadijahFaiz/travelscape)
+
+---
+
+Built with ❤️ using Next.js and Tailwind CSS
+
 - GitHub: [@KhadijahFaiz](https://github.com/KhadijahFaiz)
 
 
