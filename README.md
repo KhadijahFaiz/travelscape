@@ -96,7 +96,7 @@ travelscape/
 
 ## 🌐 Live Demo
 
-[View Live Site]([https://travelscape-brown.vercel.app/](https://vercel.com/khadijahs-projects-cb6a7f9e/travelscape/HZPxerDkcmiipmWhvGby5U4R28v8))
+[View Live Site] (https://vercel.com/khadijahs-projects-cb6a7f9e/travelscape/HZPxerDkcmiipmWhvGby5U4R28v8))
 
 ## 📄 License
 
