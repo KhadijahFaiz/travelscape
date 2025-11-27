@@ -23,7 +23,7 @@ A modern, responsive travel agency website built with Next.js, featuring smooth 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/travelscape.git
+git clone https://github.com/KhadijahFaiz/travelscape.git
 
 # Navigate to project directory
 cd travelscape
@@ -96,17 +96,17 @@ travelscape/
 
 ## 🌐 Live Demo
 
-[View Live Site](YOUR_VERCEL_LINK_HERE)
+🔗 **[View Live Site](https://travelscape-brown.vercel.app)**
 
 ## 📄 License
 
-This project was created as part of a web development internship assessment.
+This project was created as part of a web development internship assessment for KonceptHive.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Khadijah Faiz**
+- GitHub: [@KhadijahFaiz](https://github.com/KhadijahFaiz)
+- Project Repository: [travelscape](https://github.com/KhadijahFaiz/travelscape)
 
 ---
 
