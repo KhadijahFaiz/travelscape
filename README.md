@@ -1,36 +1,113 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TravelScape - Travel Agency Website
 
-## Getting Started
+A modern, responsive travel agency website built with Next.js, featuring smooth animations and a clean user interface.
 
-First, run the development server:
+## 🌟 Features
+
+- **Responsive Design**: Fully responsive across all devices
+- **Smooth Navigation**: Seamless scroll navigation with mobile menu
+- **Interactive Animations**: Hover effects, transitions, and smooth scrolling
+- **Modern UI**: Clean design with Tailwind CSS
+- **Semantic HTML**: Accessible and SEO-friendly structure
+- **Optimized Images**: Next.js Image component for performance
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 15.1.7
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+- **UI Components**: Material-UI (Emotion)
+
+## 📦 Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/travelscape.git
+
+# Navigate to project directory
+cd travelscape
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Build & Deploy
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Create production build
+npm run build
 
-## Learn More
+# Start production server
+npm start
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 📂 Project Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+travelscape/
+├── src/
+│   ├── app/
+│   │   ├── page.tsx          # Main page
+│   │   ├── layout.tsx        # Root layout
+│   │   └── globals.css       # Global styles
+│   └── components/
+│       ├── Hero.tsx          # Hero section with navbar
+│       ├── AboutSection.tsx  # About section
+│       ├── FeaturedDeals.tsx # Deals section
+│       ├── PreferredStays.tsx# Gallery/Hotels section
+│       └── Footer.tsx        # Footer with newsletter
+├── public/
+│   ├── images/              # General images
+│   ├── deals/               # Deal images
+│   └── hotels/              # Hotel images
+└── package.json
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎨 Sections
 
-## Deploy on Vercel
+1. **Hero Section**: Eye-catching hero with navigation and CTA buttons
+2. **About Section**: 4 service blocks highlighting agency features
+3. **Featured Packages**: 3 curated travel packages
+4. **Seasonal Deals**: Limited-time offers
+5. **Preferred Stays**: Gallery of recommended hotels
+6. **Contact Section**: Contact form and information
+7. **Footer**: Newsletter signup, links, and social media
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ✨ Animations
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Card hover effects with lift and shadow
+- Image zoom on hover
+- Button transitions
+- Smooth scroll navigation
+- Form input focus animations
+- Mobile menu transitions
+
+## 📱 Responsive Breakpoints
+
+- Mobile: < 640px
+- Tablet: 640px - 768px
+- Desktop: > 768px
+
+## 🌐 Live Demo
+
+[View Live Site](YOUR_VERCEL_LINK_HERE)
+
+## 📄 License
+
+This project was created as part of a web development internship assessment.
+
+## 👤 Author
+
+**Your Name**
+- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: your.email@example.com
+
+---
+
+Built with ❤️ using Next.js and Tailwind CSS
