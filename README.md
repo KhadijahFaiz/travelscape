@@ -102,7 +102,7 @@ travelscape/
 
 This project was created as part of a web development internship assessment for KonceptHive.
 
-## 👤 Author
+## � Authosr
 
 **Khadijah Faiz**
 - GitHub: [@KhadijahFaiz](https://github.com/KhadijahFaiz)
